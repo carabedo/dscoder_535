@@ -1,6 +1,6 @@
-## **comision 535 **
+## **comision 535**
 
-## **C1 **
+## **C1**
 * Presentacion Equipo
 	* Normas de convivencia
 	* Compromisos
@@ -9,7 +9,7 @@
 	* Manual Desafios*
 	* Cuestionario
 
-## **C2 **
+## **C2**
 * Introducción a la ciencia de datos
 	* Que es?
 	* Ejemplo DS
